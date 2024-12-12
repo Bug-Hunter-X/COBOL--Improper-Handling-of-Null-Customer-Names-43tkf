@@ -1,0 +1,1 @@
+This example demonstrates a common error in COBOL programs:  failure to properly handle null or empty values.  The original code lacks a robust check for a missing customer name, leading to potential program crashes or incorrect data processing. The solution provides a more comprehensive check and error handling.
